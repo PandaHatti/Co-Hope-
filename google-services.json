@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110754615103",
+    "project_id": "cohopetrial3",
+    "storage_bucket": "cohopetrial3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110754615103:android:0567fd82dcc2ce2630cd8a",
+        "android_client_info": {
+          "package_name": "com.example.cohopetrial3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110754615103-smdlc148m4mtgrc1ti7a648uuggbeoup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATo5l9-M5PqDJr2H15dDGglRo2FdhktL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110754615103-smdlc148m4mtgrc1ti7a648uuggbeoup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
